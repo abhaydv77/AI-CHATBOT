@@ -39,6 +39,10 @@ uvicorn main:app --reload
 Open http://localhost:8000 and start dropping bars 🎙️
 
 ---
+## 🌐 Live Demo
+
+👉 https://ai-chatbot-cve8.onrender.com/
+
 
 ## A note from me
 
