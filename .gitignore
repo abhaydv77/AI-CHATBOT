@@ -1,10 +1,10 @@
-# Python-generated files
+.env
+.DS_Store
+.python-version
+uv.lock
+pyproject.toml
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
+*.pyc
+.venv/
+venv/
+env/
